@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "81A241BB-10",
+    "build_number": 10,
+    "build_time": 1625369553820
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "qsx.js",
+  "name": "轻松学",
+  "packageName": "com.qsx.qg",
+  "scripts": {},
+  "versionCode": 20210703,
+  "versionName": "1.0.0"
+}
